@@ -6,7 +6,7 @@ class PageSignup extends PageBase
 {
 	protected function runPage(){
 		
-		$this->mBasePage = "book.tpl";
+		$this->mBasePage = "signup.tpl";
 
 		global $cWebPath;
 
